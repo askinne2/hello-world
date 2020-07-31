@@ -1,0 +1,111 @@
+System Report:
+
+
+### WordPress Environment ###
+
+Home URL: https://www.merrimackhall.com
+Site URL: https://www.merrimackhall.com
+WP Version: 5.4.2
+WP Multisite: –
+WP Memory Limit: 256 MB
+WP Debug Mode: –
+WP Cron: ✔
+Language: en_US
+Permalink Structure: /%postname%/
+Show on Front: page
+Page on Front: Home (#336)
+Page for Posts: Unset
+Table Prefix Length: wp_
+Table Prefix Length: 3
+Table Prefix Status: Acceptable
+Admin AJAX: Accessible
+Registered Post Statuses: publish, future, draft, pending, private, trash, auto-draft, inherit, request-pending, request-confirmed, request-failed, request-completed, refunded, failed, revoked, cancelled, abandoned, processing, preapproval, tribe-ea-success, tribe-ea-failed, tribe-ea-schedule, tribe-ea-pending, tribe-ea-draft, tribe-ignored
+
+### Server Environment ###
+
+Hosting Provider: DBH: mysql.merrimackhall.com, SRV: www.merrimackhall.com
+TLS Connection: Connection uses TLS 1.2
+TLS Connection: Probably Okay
+Server Info: Apache
+PHP Version: 7.4.3
+PHP Post Max Size: 512 MB
+PHP Time Limit: 120
+PHP Max Input Vars: 1000
+PHP Max Upload Size: 512 MB
+cURL Version: ❌ 7.35.0, OpenSSL/1.0.1 - We recommend a minimum cURL version of 7.40.
+SUHOSIN Installed: –
+MySQL Version: 5.6.34
+Default Timezone is UTC: ✔
+fsockopen/cURL: ✔
+SoapClient: ✔
+DOMDocument: ✔
+gzip: ✔
+GD Graphics Library: ✔
+Multibyte String: ✔
+Remote Post: ✔
+Remote Get: ✔
+
+### GiveWP Configuration ###
+
+GiveWP Version: 2.7.3
+GiveWP Cache: Enabled
+Database Updates: All DB Updates Completed.
+Database Tables: ✔ wp_give_donors -  1.0✔ wp_give_donormeta -  1.0✔ wp_give_comments -  1.0✔ wp_give_commentmeta -  1.0❌ wp_give_sessions -  1.0✔ wp_give_logs -  1.0✔ wp_give_logmeta -  1.0✔ wp_give_formmeta -  1.0❌ wp_give_sequential_ordering -  1.0✔ wp_give_donationmeta -  1.0
+GiveWP Cache: Enabled
+GiveWP Cache: ✔New Donation✔Donation Receipt❌New Offline Donation❌Offline Donation Instructions✔New User Registration✔User Registration Information✔Donation Note❌Email access
+Upgraded From: –
+Test Mode: Disabled
+Currency Code: USD
+Currency Position: Before
+Decimal Separator: .
+Thousands Separator: ,
+Success Page: https://www.merrimackhall.com/mh-donation-confirmation/
+Failure Page: https://www.merrimackhall.com/donation-failed-3/
+Donation History Page: https://www.merrimackhall.com/donation-history-3/
+GiveWP Forms Slug: /donations/
+Enabled Payment Gateways: PayPal Standard
+Default Payment Gateway: PayPal Standard
+PayPal IPN Verification: Enabled
+PayPal IPN Notifications: IPN received for #12698 ( 50C14941SP4635845 ) on 07/31/2020 at 17:14. Status VERIFIED
+Donor Email Access: Disabled
+Stripe Webhook Notifications: N/A
+
+### Active GiveWP Add-ons ###
+
+
+### Other Active Plugins ###
+
+Advanced noCaptcha & invisible Captcha: by Shamim Hasan – 5.7.1
+Akismet Anti-Spam: by Automattic – 4.1.6
+Better Search Replace: by Delicious Brains – 1.3.3
+Constant Contact Plugin for WordPress: by Katz Web Services, Inc. – 4.1.1
+Defender Pro: by WPMU DEV – 2.3
+DreamHost Panel Login: by DreamHost, danielbachhuber – 1.0.0
+Duplicate Page: by mndpsingh287 – 4.2
+Elementor: by Elementor.com – 2.9.14
+Elementor Pro: by Elementor.com – 2.10.3
+Insert Headers and Footers: by WPBeginner – 1.4.6
+Jetpack by WordPress.com: by Automattic – 8.7.1
+Master Slider Pro: by averta – 3.2.14
+Ninja Forms: by Saturday Drive – 3.4.24.3
+Phlox Core Elements: by averta – 2.6.2
+Redirection: by John Godley – 4.8
+SmartCrawl Pro: by WPMU DEV – 2.6.1
+The Events Calendar: by Modern Tribe, Inc. – 5.1.5
+The Events Calendar - Shortcode And Templates Pro: by Cool Plugins – 2.3
+WordPress Importer: by wordpressdotorg – 0.7
+WPMU DEV Dashboard: by WPMU DEV – 4.9.4
+Yoast SEO: by Team Yoast – 14.6.1
+
+### Inactive Plugins ###
+
+Hummingbird Pro: by WPMU DEV – 2.5.1
+Smush Pro: by WPMU DEV – 3.6.3
+UpdraftPlus - Backup/Restore: by UpdraftPlus.Com, DavidAnderson – 1.16.26
+
+### Theme ###
+
+Name: Phlox
+Version: 2.6.1
+Author URL: http://www.averta.net
+Child Theme: No – If you're modifying GiveWP on a parent theme you didn't build personally, then we recommend using a child theme. See: How to Create a Child Theme
